@@ -36,4 +36,6 @@
   border-color: #00388f;
   outline-offset: -4px;
   transition: all .2s ease;
+  color: #fff;
+  border-radius: 40px;
 }
