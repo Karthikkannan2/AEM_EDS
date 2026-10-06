@@ -1,0 +1,46 @@
+.multi-cta-wrapper .multi-cta {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* Optional: spacing adjustments for individual elements */
+.multi-cta > div {
+  margin-bottom: 1rem;
+}
+
+.multi-cta {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 60px 20px;
+}
+
+.multi-cta-eyebrow {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.multi-cta-heading {
+  font-size: 48px;
+  line-height: 1.1;
+  margin-bottom: 20px;
+}
+
+.multi-cta-description {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.multi-cta-legal {
+  font-size: 12px;
+  line-height: 1.4;
+  margin-bottom: 24px;
+}
+
+.multi-cta-button a {
+  display: inline-block;
+  padding: 12px 24px;
+  text-decoration: none;
+}
