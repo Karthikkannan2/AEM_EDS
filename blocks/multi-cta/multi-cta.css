@@ -4,17 +4,6 @@
     flex-direction: column;
 }
 
-/* Optional: spacing adjustments for individual elements */
-.multi-cta > div {
-  margin-bottom: 1rem;
-}
-
-.multi-cta {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 60px 20px;
-}
-
 .multi-cta-eyebrow {
   font-size: 14px;
   font-weight: 600;
