@@ -1,0 +1,30 @@
+{
+  "id": "multi-cta",
+  "fields": [
+    {
+      "component": "text-field",
+      "name": "eyebrow",
+      "label": "Eyebrow"
+    },
+    {
+      "component": "text-field",
+      "name": "heading",
+      "label": "Heading"
+    },
+    {
+      "component": "textarea",
+      "name": "description",
+      "label": "Description"
+    },
+    {
+      "component": "text-field",
+      "name": "legal",
+      "label": "Legal Text"
+    },
+    {
+      "component": "path-field",
+      "name": "button",
+      "label": "Button URL / Link"
+    }
+  ]
+}
